@@ -1,6 +1,6 @@
 import re
 import spacy  
-import textstat
+import textstat 
 ## !python -m spacy download en_core_web_sm  
   
 def word_count(text):
